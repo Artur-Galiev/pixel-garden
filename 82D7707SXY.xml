@@ -4,89 +4,451 @@
 <link>http://beispielwebsite.com</link>
 <description>1. DWS Corporate</description>
 <item>
-<title>Fed Bank Borrowing Program Was ‘Too Good to Pass Up,’ Data Show</title>
-<link>https://www.presse-monitor.de/pmgk2/article_preview.html?id=2400750992&listName=storedesearch</link>
-<author>Bloomberg News (English)</author>
-<description>(Bloomberg) -- Banks in the Federal Reserve’s San Francisco district led institutions that ramped up use of a key facility in January, as they took advantage of a final window of generous borrowing costs, according to Wrightson ICAP’s analysis of data released last week.
-The Bank Term Funding Progra...</description>
-<pubDate>Mon, 01 Apr 2024 00:00:00 +0200</pubDate>
-</item>
-<item>
-<title>Emerging-Market Assets Edge Lower Amid Thin Liquidity, US Data</title>
-<link>https://www.presse-monitor.de/pmgk2/article_preview.html?id=2400746749&listName=storedesearch</link>
-<author>Bloomberg News (English)</author>
-<description>(Bloomberg) -- Emerging-market stocks and currencies closed lower on Monday after fresh US factory data caused traders to reassess bets on interest rate cuts in the world’s largest economy, weighing on risk appetite. 
-A broad MSCI gauge for EM stocks dropped 0.1%, while its currency counterpart edge...</description>
-<pubDate>Mon, 01 Apr 2024 00:00:00 +0200</pubDate>
-</item>
-<item>
-<title>Tesla Has Wall Street Worried About How Many Cars It Just Sold</title>
-<link>https://www.presse-monitor.de/pmgk2/article_preview.html?id=2400740774&listName=storedesearch</link>
-<author>Bloomberg News (English)</author>
-<description>(Bloomberg) -- Tesla Inc. may be headed for a gloomy milestone as waning demand for electric vehicles and elevated interest rates take a toll on sales.
-Analysts rapidly lowered their projections for this week’s deliveries report as the quarter came to a close. Some on Wall Street are even braced for...</description>
-<pubDate>Mon, 01 Apr 2024 00:00:00 +0200</pubDate>
-</item>
-<item>
-<title>La banca de inversión sale de la parálisis con un alza del 21% en las comisiones</title>
-<link>https://www.presse-monitor.de/pmgk2/article_preview.html?id=2400729593&listName=storedesearch</link>
-<author>Expansión</author>
-<description>Inés Abril.Madrid
-
-Los bancos de inversión empiezan a respirar un poco más aliviados. Los ingresos han vuelto a llenar sus bolsillos en el primer trimestre de 2024 después de casi dos años a la baja.
-
-Las cifras están todavía lejos de los registros que lograron en sus mejores momentos, pero suponen ...</description>
-<pubDate>Mon, 01 Apr 2024 00:00:00 +0200</pubDate>
-</item>
-<item>
-<title>Fulminantes Comeback der Zertifikate</title>
-<link>https://www.presse-monitor.de/pmgk2/article_preview.html?id=2400751445&listName=storedesearch</link>
-<author>F+</author>
-<description>Noch ist das Rennen offen, welcher BSW der erfolgreichere Newcomer ist: Der Bundesverband Strukturierte Wertpapiere, in den sich der Deutsche Derivate Verband umbenannte oder das Bündnis Sahra Wagenknecht. Knapp zwei Wochen liegen die Geburten der beiden BSWs im September auseinander, zuerst die Str...</description>
-<pubDate>Mon, 01 Apr 2024 00:00:00 +0200</pubDate>
-</item>
-<item>
-<title>Indische Börse im Höhenflug So profitieren Anleger vom Boom</title>
-<link>https://www.presse-monitor.de/pmgk2/article_preview.html?id=2400740193&listName=storedesearch</link>
-<author>tagesspiegel.de</author>
-<description>Seit Beginn des Jahrtausends hat die indische Aktienbörse weit höhere Kursgewinne geliefert als alle anderen größeren Märkte. Und Experten zufolge ist kein Ende in Sicht. Erfolgreiche Investoren verweisen auf eine anhaltend spektakulär laufende Konjunktur, steigende Unternehmensgewinne und eine wirt...</description>
-<pubDate>Mon, 01 Apr 2024 00:00:00 +0200</pubDate>
-</item>
-<item>
-<title>Vorschau: Tesla könnte in Q1 2024 weniger Elektroautos verkauft haben als vor einem Jahr</title>
-<link>https://www.presse-monitor.de/pmgk2/article_preview.html?id=2400737536&listName=storedesearch</link>
-<author>TESLAMAG</author>
-<description>Wenn Tesla bei der bisherigen Praxis bleibt, werden am morgigen Dienstag (2.4.) vor US-Börseneröffnung die offiziellen Daten für seine Elektroauto-Verkäufe und -Produktion im ersten Quartal dieses Jahres veröffentlicht. Eines aber scheint dieses Mal anders zu sein: Üblicherweise schickt Tesla großen...</description>
-<pubDate>Mon, 01 Apr 2024 00:00:00 +0200</pubDate>
-</item>
-<item>
-<title>Welt-Portfolio ohne US-Klumpenrisiko – Ist das möglich?</title>
-<link>https://www.presse-monitor.de/pmgk2/article_preview.html?id=2400749154&listName=storedesearch</link>
-<author>wallstreet ONLINE</author>
-<description>Viele Kapitalmarktexperten halten eine Blasenbildung bei Technologieaktien zwar für wenig wahrscheinlich. Denn die aktuell starken Kursgewinne bei Aktien, die von Künstlicher Intelligenz (KI) profitieren, stehen auf einem solideren Fundament. Langfristig gilt der Megatrend KI daher zwar als belastba...</description>
-<pubDate>Mon, 01 Apr 2024 00:00:00 +0200</pubDate>
-</item>
-<item>
-<title>Letzte Chance für EM-Tipp-Spaß</title>
-<link>https://www.presse-monitor.de/pmgk2/article_preview.html?id=2400783669&listName=storedesearch</link>
-<author>Westfälische Rundschau Arnsberg</author>
-<description>Martin Haselhorst
-Arnsberg/Sundern Die Fußball-Euphorie steigt. Spätestens nach den Siegen der deutschen Fußball-Nationalmannschaft in Frankreich und gegen die Niederlande keimt die Hoffnung auf ein neues „Sommermärchen“ bei der Fußball-Europameisterschaft 2024 in Deutschland (14. Juni bis 14. Juli)...</description>
+<title>Communiqué par Business Wire : Rémy Cointreau</title>
+<link>https://www.presse-monitor.de/pmgk2/article_preview.html?id=2400975642&listName=storedesearch</link>
+<author>AFP Französischsprachiger Wirtschaftsdienst</author>
+<description>Regulatory News:
+Rémy Cointreau (Paris:RCO) annonce le renouvellement avec succès de sa ligne de crédit syndiqué " RCF1 " pour un montant porté à 180 millions d'euros et une durée de 5 ans (maturité mars 2029) avec deux options d'extension, d'un an chacune, soumises à l'approbation des prêteurs.
+Ce ...</description>
 <pubDate>Tue, 02 Apr 2024 00:00:00 +0200</pubDate>
 </item>
 <item>
-<title>Arnsberg/Sundern: Liste für EM-Tipp-Spaß wird immer länger</title>
-<link>https://www.presse-monitor.de/pmgk2/article_preview.html?id=2400741448&listName=storedesearch</link>
-<author>wp.de (Westfalenpost)</author>
-<description>Die Fußball-Euphorie steigt. Spätestens nach den Siegen der deutschen Fußball-Nationalmannschaft in Frankreich und gegen die Niederlande keimt die Hoffnung auf ein neues „Sommermärchen“ bei der Fußball-Europameisterschaft 2024 in Deutschland (14. Juni - 14. Juli), die mit dem Gruppenspiel der deutsc...</description>
-<pubDate>Mon, 01 Apr 2024 00:00:00 +0200</pubDate>
+<title>Wdh Midday Briefing - Markt Schweiz</title>
+<link>https://www.presse-monitor.de/pmgk2/article_preview.html?id=2400997819&listName=storedesearch</link>
+<author>AWP-Basisdienst</author>
+<description>(Wiederholung aus technischen Gründen)
+Zürich (awp) - Nachfolgend eine Zusammenstellung der wichtigsten Informationen für den laufenden Börsentag:
+UNTERNEHMENSNACHRICHTEN
+- Lonza Lonza holt bisherigen Siegfried-Chef Wolfgang Wienand als neuen CEO Wolfgang Wienand wird per Sommer Konzernchef Albert B...</description>
+<pubDate>Tue, 02 Apr 2024 00:00:00 +0200</pubDate>
 </item>
 <item>
-<title>"Wie viele Scheine haben Sie gemacht?"</title>
-<link>https://www.presse-monitor.de/pmgk2/article_preview.html?id=2400728250&listName=storedesearch</link>
-<author>ZEIT ONLINE</author>
-<description>Je mehr rote Ampeln Julia Richters Arbeitsweg zerstückelten, desto besser. Was immer sie zum Bremsen zwang, erinnert sie sich heute, erschien ihr wie ein Geschenk des Himmels. So konnte sie diesem Ort noch ein paar Momente fernbleiben, der ihr sonntags Bauchschmerzen bereitete und nachts den Schlaf ...</description>
-<pubDate>Mon, 01 Apr 2024 00:00:00 +0200</pubDate>
+<title>Midday Briefing - Markt Schweiz</title>
+<link>https://www.presse-monitor.de/pmgk2/article_preview.html?id=2400997818&listName=storedesearch</link>
+<author>AWP-Basisdienst</author>
+<description>Zürich (awp) - Nachfolgend eine Zusammenstellung der wichtigsten Informationen für den laufenden Börsentag:
+UNTERNEHMENSNACHRICHTEN
+- Lonza Lonza holt bisherigen Siegfried-Chef Wolfgang Wienand als neuen CEO Wolfgang Wienand wird per Sommer Konzernchef Albert Baehny wird für eine Übergangszeit bis i...</description>
+<pubDate>Tue, 02 Apr 2024 00:00:00 +0200</pubDate>
+</item>
+<item>
+<title>Tagesgeld Vergleich: Bis 3,90 % Tagesgeldzinsen sichern | 04/2024</title>
+<link>https://www.presse-monitor.de/pmgk2/article_preview.html?id=2400954732&listName=storedesearch</link>
+<author>biallo.de</author>
+<description>Tagesgeld ist eine Form der Geldanlage, bei der das Geld auf einem Tagesgeldkonto angelegt wird. Es handelt sich dabei um ein verzinsliches Konto, auf das man jederzeit zugreifen kann, um Geld einzuzahlen, abzuheben oder zu überweisen.
+Die Zinsen für Tagesgeldkonten sind in der Regel variabel und kö...</description>
+<pubDate>Tue, 02 Apr 2024 00:00:00 +0200</pubDate>
+</item>
+<item>
+<title>Tesla’s Sales Miss by the Most Ever in Brutal Blow for EVs</title>
+<link>https://www.presse-monitor.de/pmgk2/article_preview.html?id=2400954448&listName=storedesearch</link>
+<author>Bloomberg News (English)</author>
+<description>(Bloomberg) -- Tesla Inc. had Wall Street analysts second-guessing their models as the first quarter came to a close. One after another reduced their estimate for vehicle deliveries.
+They didn’t cut by nearly enough.
+The carmaker led by Elon Musk delivered just 386,810 vehicles in the first three mo...</description>
+<pubDate>Tue, 02 Apr 2024 00:00:00 +0200</pubDate>
+</item>
+<item>
+<title>Deutsche Bank Says Glencore May Weigh Listing Move to US</title>
+<link>https://www.presse-monitor.de/pmgk2/article_preview.html?id=2400947227&listName=storedesearch</link>
+<author>Bloomberg News (English)</author>
+<description>(Bloomberg) -- Glencore Plc may consider switching its primary listing from London to New York, analysts at Deutsche Bank AG predicted, in what would be the most high-profile exit from the UK exchange to date.
+Liam Fitzpatrick and colleagues said the Baar, Switzerland-headquartered mining and tradin...</description>
+<pubDate>Tue, 02 Apr 2024 00:00:00 +0200</pubDate>
+</item>
+<item>
+<title>German Inflation Slows Further as ECB Readies June Rate Cut</title>
+<link>https://www.presse-monitor.de/pmgk2/article_preview.html?id=2400947218&listName=storedesearch</link>
+<author>Bloomberg News (English)</author>
+<description>(Bloomberg) -- German inflation eased for a third month in March, supporting expectations that the European Central Bank will start lowering interest rates in June. 
+Consumer prices rose an annual 2.3% last month, according to the statistics office — down from 2.7% in February and less than the 2.4%...</description>
+<pubDate>Tue, 02 Apr 2024 00:00:00 +0200</pubDate>
+</item>
+<item>
+<title>Fidelity-Backed Fintech Targets 30% Growth, $1 Billion Revenue</title>
+<link>https://www.presse-monitor.de/pmgk2/article_preview.html?id=2400947208&listName=storedesearch</link>
+<author>Bloomberg News (English)</author>
+<description>(Bloomberg) -- Creditas Financial Solutions Ltd., one of Latin America’s most-valuable fintechs, emerged from the tech downturn with losses halted and half its staff. 
+The Sao Paulo-based firm, which was valued at $4.8 billion in January 2022 in an investment round led by Fidelity Management & Resea...</description>
+<pubDate>Tue, 02 Apr 2024 00:00:00 +0200</pubDate>
+</item>
+<item>
+<title>Turkish Markets Swept Up in Relief Rally as Election Risk Passes</title>
+<link>https://www.presse-monitor.de/pmgk2/article_preview.html?id=2400941832&listName=storedesearch</link>
+<author>Bloomberg News (English)</author>
+<description>(Bloomberg) -- The lira appreciated, government bonds gained and the costs to insure Turkish debt against default fell after President Recep Tayyip Erdogan signaled support for status-quo economic policy. 
+The Turkish currency advanced as much as 0.6% on Tuesday before trading 0.2% higher at 32.2024...</description>
+<pubDate>Tue, 02 Apr 2024 00:00:00 +0200</pubDate>
+</item>
+<item>
+<title>Investmentfonds erobern die Welt</title>
+<link>https://www.presse-monitor.de/pmgk2/article_preview.html?id=2400994922&listName=storedesearch</link>
+<author>Börsen-Zeitung</author>
+<description>Börsen-Zeitung, 3.4.2024
+jsc Frankfurt
+– Im Jahr 1950 erreichte eine Finanzinnovation den deutschen Markt: der Investmentfonds. Der „Fonds für Renten und Aktien“ (Fondra), aufgelegt von der damaligen Allgemeinen Deutschen Investment-Gesellschaft (Adig), startete im August 1950, ehe im Oktober des gl...</description>
+<pubDate>Wed, 03 Apr 2024 00:00:00 +0200</pubDate>
+</item>
+<item>
+<title>UBS-Stratege traut Höhenflug bei Nvidia & Co nicht länger</title>
+<link>https://www.presse-monitor.de/pmgk2/article_preview.html?id=2400922221&listName=storedesearch</link>
+<author>cash.ch</author>
+<description>cash Insider
+Das ist an den Märkten passiert
+...verglichen mit jenem des breiten Marktes nicht länger auf eine überdurchschnittliche Kursentwicklung. Experte hält die Aktien aus der Halbleiterindustrie für gefährlich überhitzt und setzt stattdessen auf solche von Softwareherstellern. Garthwaite mach...</description>
+<pubDate>Tue, 02 Apr 2024 00:00:00 +0200</pubDate>
+</item>
+<item>
+<title>Der meistgesuchte Mann des Landes</title>
+<link>https://www.presse-monitor.de/pmgk2/article_preview.html?id=2400957511&listName=storedesearch</link>
+<author>Cicero Online</author>
+<description>BUTZ PETERS
+Als Ernst-Volker Staub - bislang das einzige Mal - von der Polizei festgenommen wurde, war er noch ein No-name-Terrorist. Es ist der 2. Juli 1984. Frankfurt am Main. Berger Straße 344. Ein Altbau im Stadtteil Bornheim. Ein Elektromeister im Ruhestand macht es sich vor dem Fernseher gemüt...</description>
+<pubDate>Tue, 02 Apr 2024 00:00:00 +0200</pubDate>
+</item>
+<item>
+<title>Vontobel-CFO - Zug im passiven Asset Management ist abgefahren</title>
+<link>https://www.presse-monitor.de/pmgk2/article_preview.html?id=2400994854&listName=storedesearch</link>
+<author>Der Platow Brief</author>
+<description>Die operativen Kennzahlen bei Vontobel waren in den letzten beiden Jahren durchwachsen. Im Asset Management sanken die Nettoneugelder auch 2023 mit -6,5 Mrd. CHF wieder kräftig.
+
+Schuld ist die Zinswende, die alle aktiven Vermögensverwalter voll erwischt hat. Dank konstanter Zuflüsse im Wealth Manag...</description>
+<pubDate>Tue, 02 Apr 2024 00:00:00 +0200</pubDate>
+</item>
+<item>
+<title>UBS: Davon können Deutsche Bank und Commerzbank nur träumen</title>
+<link>https://www.presse-monitor.de/pmgk2/article_preview.html?id=2400951770&listName=storedesearch</link>
+<author>deraktionaer.de</author>
+<description>Ein Performancevergleich zwischen UBS und den deutschen Großbanken Deutsche Bank und Commerzbank zeigt eine erhebliche Abweichung. Während der Kurs der Schweizer Großbank auf Sicht von fünf Jahren knapp 125 Prozent zulegen konnte, kommt die Deutsche Bank im gleichen Zeitraum auf einen Zuwachs von et...</description>
+<pubDate>Tue, 02 Apr 2024 00:00:00 +0200</pubDate>
+</item>
+<item>
+<title>Commerzbank: Rally ohne Ende</title>
+<link>https://www.presse-monitor.de/pmgk2/article_preview.html?id=2400925249&listName=storedesearch</link>
+<author>deraktionaer.de</author>
+<description>Im zweiten Halbjahr 2024 wird nicht nur am Markt mit einer Zinswende gerechnet. Doch die Aktien von Finanzinstituten streben seit Wochen dennoch teils stark nach oben. Auch die Commerzbank-Papiere bilden dabei keine Ausnahme.
+Im Vormittagshandel hat die Akte heute Intraday die 13-Euro-Marke überschr...</description>
+<pubDate>Tue, 02 Apr 2024 00:00:00 +0200</pubDate>
+</item>
+<item>
+<title>Tesla: Diese Woche Zahlen – das ist jetzt wichtig</title>
+<link>https://www.presse-monitor.de/pmgk2/article_preview.html?id=2400920634&listName=storedesearch</link>
+<author>deraktionaer.de</author>
+<description>Tesla (WKN: A1CX3T)
+Tesla wird in dieser Woche seine Auslieferungszahlen für das erste Quartal vorlegen. Die in den vergangenen Monat rapide gesunkenen Schätzungen deuten auf einen wohl eher wenig erfreulichen Bericht hin. Noch wichtiger ist, dass die jüngsten Nachrichten laut Bloomberg aktuell auf ...</description>
+<pubDate>Tue, 02 Apr 2024 00:00:00 +0200</pubDate>
+</item>
+<item>
+<title>Deutsche Bank: Wie viel Luft hat die Aktie noch?</title>
+<link>https://www.presse-monitor.de/pmgk2/article_preview.html?id=2400920631&listName=storedesearch</link>
+<author>deraktionaer.de</author>
+<description>Am vergangenen Donnerstag, dem letzten Handelstag vor dem verlängerten Osterwochenende, schloss die Aktie der Deutschen Bank mit minus 0,2 Prozent leicht tiefer. Das Gesamtbild einer kraftvollen Aufwärtsbewegung, die seit diesem Februar läuft, kann das aber nicht eintrüben.
+Anfang März hatte sich de...</description>
+<pubDate>Tue, 02 Apr 2024 00:00:00 +0200</pubDate>
+</item>
+<item>
+<title>EQS-Stimmrechte: Branicks Group AG (deutsch)</title>
+<link>https://www.presse-monitor.de/pmgk2/article_preview.html?id=2400996832&listName=storedesearch</link>
+<author>dpa-AFX Wirtschaftsnachrichten</author>
+<description>Branicks Group AG: Veröffentlichung gemäß § 40 Abs. 1 WpHG mit dem Ziel der europaweiten Verbreitung
+^ EQS Stimmrechtsmitteilung: Branicks Group AG Branicks Group AG: Veröffentlichung gemäß § 40 Abs. 1 WpHG mit dem Ziel der europaweiten Verbreitung
+02.04.2024 / 15:00 CET/CEST Veröffentlichung einer ...</description>
+<pubDate>Tue, 02 Apr 2024 00:00:00 +0200</pubDate>
+</item>
+<item>
+<title>EQS-Stimmrechte: Covestro AG (deutsch)</title>
+<link>https://www.presse-monitor.de/pmgk2/article_preview.html?id=2400996792&listName=storedesearch</link>
+<author>dpa-AFX Wirtschaftsnachrichten</author>
+<description>Covestro AG: Veröffentlichung gemäß § 40 Abs. 1 WpHG mit dem Ziel der europaweiten Verbreitung
+^ EQS Stimmrechtsmitteilung: Covestro AG Covestro AG: Veröffentlichung gemäß § 40 Abs. 1 WpHG mit dem Ziel der europaweiten Verbreitung
+02.04.2024 / 13:30 CET/CEST Veröffentlichung einer Stimmrechtsmitteil...</description>
+<pubDate>Tue, 02 Apr 2024 00:00:00 +0200</pubDate>
+</item>
+<item>
+<title>EQS-Stimmrechte: Branicks Group AG (deutsch)</title>
+<link>https://www.presse-monitor.de/pmgk2/article_preview.html?id=2400949109&listName=storedesearch</link>
+<author>dpa-AFX-Line</author>
+<description>"type": "composite", Branicks Group AG: Veröffentlichung gemäß \u00a7 40 Abs. 1 WpHG mit dem Ziel der europaweiten Verbreitung
+
+
+EQS Stimmrechtsmitteilung: Branicks Group AG
+Branicks Group AG: Veröffentlichung gemäß \u00a7 40 Abs. 1 WpHG mit dem Ziel der
+europaweiten Verbreitung
+
+02.04.2024 / 15:00 ...</description>
+<pubDate>Tue, 02 Apr 2024 00:00:00 +0200</pubDate>
+</item>
+<item>
+<title>EQS-Stimmrechte: Covestro AG (deutsch)</title>
+<link>https://www.presse-monitor.de/pmgk2/article_preview.html?id=2400943287&listName=storedesearch</link>
+<author>dpa-AFX-Line</author>
+<description>"type": "composite", Covestro AG: Veröffentlichung gemäß \u00a7 40 Abs. 1 WpHG mit dem Ziel der europaweiten Verbreitung
+
+
+EQS Stimmrechtsmitteilung: Covestro AG
+Covestro AG: Veröffentlichung gemäß \u00a7 40 Abs. 1 WpHG mit dem Ziel der
+europaweiten Verbreitung
+
+02.04.2024 / 13:30 CET/CEST
+Veröffent...</description>
+<pubDate>Tue, 02 Apr 2024 00:00:00 +0200</pubDate>
+</item>
+<item>
+<title>Dax startet nach Ostern freundlich - Inflationsdaten erwartet</title>
+<link>https://www.presse-monitor.de/pmgk2/article_preview.html?id=2400977279&listName=storedesearch</link>
+<author>dts Basisdienst</author>
+<description>Frankfurt/Main (dts Nachrichtenagentur) - Der Dax ist am Dienstag nach dem langen Osterwochenende freundlich in den Handelstag gestartet und hat zwischenzeitlich erneut einen neuen Rekordstand erreicht. Gegen 9:30 Uhr wurde der Leitindex mit 18.505 Punkten berechnet, 0,1 Prozent über dem Schlussnive...</description>
+<pubDate>Tue, 02 Apr 2024 00:00:00 +0200</pubDate>
+</item>
+<item>
+<title>UPDATE 3-Tesla quarterly deliveries fall for the first time in nearly four years</title>
+<link>https://www.presse-monitor.de/pmgk2/article_preview.html?id=2400979153&listName=storedesearch</link>
+<author>EBR European Business Report</author>
+<description>(Adds details on market value in paragraph 3, analyst comments in paragraphs 6,9,10 and 11; details on Rivian's deliveries in paragraphs 16,17)
+
+By Akash Sriram and Hyunjoo Jin
+
+April 2 (Reuters) -
+
+Tesla posted a fall in quarterly deliveries for the first time in nearly four years and missed Wall S...</description>
+<pubDate>Wed, 03 Apr 2024 00:00:00 +0200</pubDate>
+</item>
+<item>
+<title>UPDATE 5-Tesla quarterly deliveries decline for the first time in nearly four years</title>
+<link>https://www.presse-monitor.de/pmgk2/article_preview.html?id=2400979053&listName=storedesearch</link>
+<author>EBR European Business Report</author>
+<description>(Adds details on Xiaomi's debut EV and pressures facing Tesla, updates shares, paragraphs 2, 11, 17)
+
+By Akash Sriram and Hyunjoo Jin
+
+April 2 (Reuters) - Tesla on Tuesday posted a decline in quarterly deliveries for the first time in nearly four years and missed Wall Street estimates, a performance...</description>
+<pubDate>Wed, 03 Apr 2024 00:00:00 +0200</pubDate>
+</item>
+<item>
+<title>UPDATE 4-Tesla quarterly deliveries decline for the first time in nearly four years</title>
+<link>https://www.presse-monitor.de/pmgk2/article_preview.html?id=2400979019&listName=storedesearch</link>
+<author>EBR European Business Report</author>
+<description>(Adds company background, analyst comment, updates shares, paragraphs 2-4, 8-9, 12, 15-16)
+
+By Akash Sriram and Hyunjoo Jin
+
+April 2 (Reuters) - Tesla on Tuesday posted a decline in quarterly deliveries for the first time in nearly four years and missed Wall Street estimates, a performance some desc...</description>
+<pubDate>Wed, 03 Apr 2024 00:00:00 +0200</pubDate>
+</item>
+<item>
+<title>Robeco ficha a Laura Román para liderar su negocio en España</title>
+<link>https://www.presse-monitor.de/pmgk2/article_preview.html?id=2401063603&listName=storedesearch</link>
+<author>Expansión</author>
+<description>Sandra Sánchez.Madrid
+
+Robeco acude al mercado para reforzar la primera línea de su filial española. La gestora de origen neerlandés incorpora a Laura Román como nueva responsable deIberia para encargarse de liderar la actividad y los planes estratégicos del negocio de Robeco en España y Portugal.
+
+...</description>
+<pubDate>Wed, 03 Apr 2024 00:00:00 +0200</pubDate>
+</item>
+<item>
+<title>Axa pone a la venta vivienda en alquiler por 170 millones</title>
+<link>https://www.presse-monitor.de/pmgk2/article_preview.html?id=2401063448&listName=storedesearch</link>
+<author>Expansión</author>
+<description>Rebeca Arroyo.Madrid
+
+Axa, a través de su gestora de inversiones alternativas, ha lanzado un proceso para la venta de una cartera de pisos de alquiler, un negocio por el que la aseguradora francesa se ha mostrado muy interesada en los últimos cinco años en España.
+
+Según informan a EXPANSIÃ“N fuente...</description>
+<pubDate>Wed, 03 Apr 2024 00:00:00 +0200</pubDate>
+</item>
+<item>
+<title>Sara Hennicken ist seit September 2022 CFO von Fresenius</title>
+<link>https://www.presse-monitor.de/pmgk2/article_preview.html?id=2400923354&listName=storedesearch</link>
+<author>Finance-Magazin.de</author>
+<description>Fresenius – diesen Namen verband man über Jahrzehnte mit einem vor Kraft strotzenden Konzern, der den Kapitalmarkt dank operativer Exzellenz, spektakulärer Deals und zuverlässig sprudelnder Gewinne stets aufs Neue entzückte. Doch, wie so oft im Leben, wendete sich das Blatt: Etwa ab dem Jahr 2017 ge...</description>
+<pubDate>Tue, 02 Apr 2024 00:00:00 +0200</pubDate>
+</item>
+<item>
+<title>Dax überspringt 18.500 Zähler, Deutsche-Bank-Aktie im Plus</title>
+<link>https://www.presse-monitor.de/pmgk2/article_preview.html?id=2400934099&listName=storedesearch</link>
+<author>FOCUS online</author>
+<description>mit dpa
+Der Dax##chartIcon startete den Handel am Dienstag bei 18.505 Zählern und gewann damit 0,06 Prozent zum Gründonnerstag. Der MDax##chartIcon der mittelgroßen Werte verlor 0,1 Prozent auf 27.007 Zähler. Der EuroStoxx 50##chartIcon notierte 0,2 Prozent höher bei 5103 Zählern.
+
+Stärkste Dax-Wert...</description>
+<pubDate>Tue, 02 Apr 2024 00:00:00 +0200</pubDate>
+</item>
+<item>
+<title>Verdi ruft erneut zu Warnstreiks bei Postbank auf</title>
+<link>https://www.presse-monitor.de/pmgk2/article_preview.html?id=2400934071&listName=storedesearch</link>
+<author>FOCUS online</author>
+<description>dpa
+Die Gewerkschaft Verdi lässt im Tarifkonflikt bei der Postbank nicht locker. Nach zweitägigen bundesweiten Warnstreiks unter anderem in den Postbank-Filialen sind seit Dienstag die Beschäftigten in der Abwicklung von Bankgeschäften (Backoffice) zu Arbeitsniederlegungen aufgerufen, wie Verdi mitt...</description>
+<pubDate>Tue, 02 Apr 2024 00:00:00 +0200</pubDate>
+</item>
+<item>
+<title>Warnstreiks bei der Postbank</title>
+<link>https://www.presse-monitor.de/pmgk2/article_preview.html?id=2400934068&listName=storedesearch</link>
+<author>FOCUS online</author>
+<description>DPA
+Die Gewerkschaft Verdi lässt im Tarifkonflikt bei der Postbank nicht locker. Nach zweitägigen bundesweiten Warnstreiks unter anderem in den Postbank-Filialen sind seit heute Morgen die Beschäftigten in der Abwicklung von Bankgeschäften (Backoffice) zu Arbeitsniederlegungen aufgerufen, wie Verdi ...</description>
+<pubDate>Tue, 02 Apr 2024 00:00:00 +0200</pubDate>
+</item>
+<item>
+<title>Wir müssen wieder mehr arbeiten</title>
+<link>https://www.presse-monitor.de/pmgk2/article_preview.html?id=2400338766&listName=storedesearch</link>
+<author>Focus-Money</author>
+<description>Wie es mit unserem Wohlstand und der globalen Wirtschaft weitergeht, hängt stark davon ab, wie die politischen Weichen im Superwahljahr 2024 gestellt werden. Die Wahl zum EU-Parlament im Juni wird bereits ein Fingerzeig sein, ob die EU endlich politisch und wirtschaftlich zusammenrückt. Bleibt sie e...</description>
+<pubDate>Wed, 03 Apr 2024 00:00:00 +0200</pubDate>
+</item>
+<item>
+<title>Positives Aktienumfeld</title>
+<link>https://www.presse-monitor.de/pmgk2/article_preview.html?id=2400338769&listName=storedesearch</link>
+<author>Focus-Money</author>
+<description>DIE ZIINSENTWICKLUNG, zu denen sich mit der jüngsten Leitzinssenkung der Schweizer Notenbank ein weiteres positives Signal gesellt, gibt den globalen Aktienmärkten zusätzlichen Auftrieb“, sagt Hartmut Jaensch von prediqma. Der Börsenexperte stockt deshalb bei der Deutschen Bank und der Citigroup auf...</description>
+<pubDate>Wed, 03 Apr 2024 00:00:00 +0200</pubDate>
+</item>
+<item>
+<title>Sechser im Lotto</title>
+<link>https://www.presse-monitor.de/pmgk2/article_preview.html?id=2400338782&listName=storedesearch</link>
+<author>Focus-Money</author>
+<description>Aufgeblasener Bürokratiemoloch mit idiotischen Vorschriften: Die Europäische Kommission muss viel Spott aushalten. Manche glauben, dass sie nur irrsinnig Geld verschlingt und sich in vieles einmischt, was sie gar nichts angeht. Kritik, die manchmal berechtigt ist. Doch unterm Strich trifft die EU En...</description>
+<pubDate>Wed, 03 Apr 2024 00:00:00 +0200</pubDate>
+</item>
+<item>
+<title>Postbank-Streik zielt auf Kundenservice</title>
+<link>https://www.presse-monitor.de/pmgk2/article_preview.html?id=2400962437&listName=storedesearch</link>
+<author>Frankfurter Allgemeine Zeitung</author>
+<description>arp.
+FRANKFURT. Die jüngsten Warnstreiks bei der Postbank zielen auf den Kundenservice. Anders als bei den voran gegangenen Warnstreiks, ruft die Gewerkschaft Verdi nun ausnahmslos den sogenannten Backoffice-Bereich auf, dort wo Anliegen von Kunden bearbeitet werden. Bislang hatten die Gewerkschafte...</description>
+<pubDate>Wed, 03 Apr 2024 00:00:00 +0200</pubDate>
+</item>
+<item>
+<title>GFT testet Plattform zur Verarbeitung von Krypto-Geldströmen</title>
+<link>https://www.presse-monitor.de/pmgk2/article_preview.html?id=2400962448&listName=storedesearch</link>
+<author>Frankfurter Allgemeine Zeitung</author>
+<description>STUTTGART. Auf der ganzen Welt arbeiten Geschäfts- und Zentralbanken in unterschiedlichen Phasen an Digitalwährungen: Das auf die Digitalisierung im Banken- und Versicherungssektor spezialisierte Unternehmen GFT Technologies SE mit Sitz in Stuttgart geht davon aus, dass in mehr als 130 Ländern solch...</description>
+<pubDate>Wed, 03 Apr 2024 00:00:00 +0200</pubDate>
+</item>
+<item>
+<title>Dorothee Blessing</title>
+<link>https://www.presse-monitor.de/pmgk2/article_preview.html?id=2400962446&listName=storedesearch</link>
+<author>Frankfurter Allgemeine Zeitung</author>
+<description>Sie gilt als bekannteste und erfolgreichste deutsche Investmentbankerin. Mit Dorothee Blessing einen Termin in Frankfurt zu bekommen ist fast unmöglich. Denn die vor 56 Jahren in Bochum in eine Bankerdynastie hineingeborene Blessing trennt fast alles streng analytisch. Fünf Jahre lang bis Ende 2020 ...</description>
+<pubDate>Wed, 03 Apr 2024 00:00:00 +0200</pubDate>
+</item>
+<item>
+<title>Neue Geduldsprobe für Postbank-Kunden</title>
+<link>https://www.presse-monitor.de/pmgk2/article_preview.html?id=2400971961&listName=storedesearch</link>
+<author>Handelsblatt</author>
+<description>Frankfurt. Der Tarifkonflikt bei der Postbank könnte sich in den kommenden Tagen auch auf Kundinnen und Kunden der Deutschen Bank auswirken. Die Gewerkschaften Verdi und DBV haben in den nächsten Tagen fast flächendeckend zu Warnstreiks in den Serviceeinheiten (Backoffice) aufgerufen, in denen wicht...</description>
+<pubDate>Wed, 03 Apr 2024 00:00:00 +0200</pubDate>
+</item>
+<item>
+<title>Diese Daten stimmen Anleger optimistisch</title>
+<link>https://www.presse-monitor.de/pmgk2/article_preview.html?id=2400971964&listName=storedesearch</link>
+<author>Handelsblatt</author>
+<description>Wenn Wealth-Management-Kunden Christian Schwab Fragen stellen, dann häufig zur Konjunktur. Der Leiter des Portfoliomanagements bei Rothschild &Co in Deutschland erklärt das so: „Investoren erwarten weniger Zinssenkungen, trotzdem eilen die Aktienmärkte von Rekord zu Rekord. Daher verschiebt sich das...</description>
+<pubDate>Wed, 03 Apr 2024 00:00:00 +0200</pubDate>
+</item>
+<item>
+<title>Neue Geduldsprobe für Postbank- und Deutsche-Bank-Kunden – Service-Standorte streiken</title>
+<link>https://www.presse-monitor.de/pmgk2/article_preview.html?id=2400936431&listName=storedesearch</link>
+<author>Handelsblatt.com</author>
+<description>Erstveröffentlichung: 2024-04-02 05:44:29 letzte Aktualisierung: 2024-04-02 08:47:10
+Der Tarifkonflikt bei der Postbank könnte sich in den kommenden Tagen auch auf Kundinnen und Kunden der Deutschen Bank auswirken. Die Gewerkschaften Verdi und DBV haben in den nächsten Tagen fast flächendeckend zu W...</description>
+<pubDate>Tue, 02 Apr 2024 00:00:00 +0200</pubDate>
+</item>
+<item>
+<title>Stock market today: Asia markets are mixed after Wall Street's strong manufacturing data</title>
+<link>https://www.presse-monitor.de/pmgk2/article_preview.html?id=2401001689&listName=storedesearch</link>
+<author>independent.co.uk</author>
+<description>Asian shares were mixed on Tuesday after Wall Street retreated as surprisingly strong U.S. manufacturing data cast doubts over how soon the Federal Reserve might cut interest rates.
+
+Hong Kong gained 2.2% to 16,906.15. The Shanghai Composite index edged 0.1% lower to 3,074.96.
+
+China real estate dev...</description>
+<pubDate>Tue, 02 Apr 2024 00:00:00 +0200</pubDate>
+</item>
+<item>
+<title>Stock market today: Hong Kong stocks lead Asia market gains while developer Vanke slumps</title>
+<link>https://www.presse-monitor.de/pmgk2/article_preview.html?id=2401001654&listName=storedesearch</link>
+<author>independent.co.uk</author>
+<description>Hong Kong stocks led gains in Asian markets Tuesday, though China real estate developer Vanke slumped more than 10%, while investors evaluated economic data from South Korea and Australia.
+
+U.S. futures were lower while oil prices rose.
+
+Tokyo's Nikkei 225 index climbed 0.3% to 39,936.35, recovering...</description>
+<pubDate>Tue, 02 Apr 2024 00:00:00 +0200</pubDate>
+</item>
+<item>
+<title>Rotlicht: Finanzkapital</title>
+<link>https://www.presse-monitor.de/pmgk2/article_preview.html?id=2400960178&listName=storedesearch</link>
+<author>junge Welt</author>
+<description>
+Ausgang des 19. Jahrhunderts: Monopole unter den Banken und in der Industrie beteiligen sich am Eigentum des jeweils anderen und schicken ihre Vertreter gegenseitig in die Aufsichtsräte ihrer Gesellschaften. Große Banken und Produktionsmonopole verschmelzen mit Unternehmen aus Versicherung, Handel,...</description>
+<pubDate>Wed, 03 Apr 2024 00:00:00 +0200</pubDate>
+</item>
+<item>
+<title>Wie Bayer-Chef Bill Anderson die Prozesswelle in den USA brechen will</title>
+<link>https://www.presse-monitor.de/pmgk2/article_preview.html?id=2400912828&listName=storedesearch</link>
+<author>manager magazin +</author>
+<description>Gleich der Auftaktabend am Freitag gilt als gesellschaftlicher Höhepunkt der Münchener Sicherheitskonferenz, die jedes Jahr Mitte Februar stattfindet. Dann steht für gewöhnlich das Dinner zu Ehren des 2018 verstorbenen US-Senators, Kampffliegers und Präsidentschaftskandidaten John McCain auf der Tag...</description>
+<pubDate>Tue, 02 Apr 2024 00:00:00 +0200</pubDate>
+</item>
+<item>
+<title>Nachrichten aus OPR: Wittstock sucht 264 Wahlhelfer +++ Neue Salon-Reihe im Wustrauer Museum</title>
+<link>https://www.presse-monitor.de/pmgk2/article_preview.html?id=2400940197&listName=storedesearch</link>
+<author>MAZ-Online.de (Märkische Allgemeine)</author>
+<description>Das Brandenburg-Preußen-Museum in Wustrau beginnt am Sonntag, 21. April eine neue Veranstaltungsreihe. Der „Brandenburg-Salon“ widmet sich „Menschen. Heimat. Geschichte.“ Von 10 bis 18 Uhr gibt es dazu Gespräche und Aktivitäten rund um das Brandenburg-Preußen-Museum in der Eichenallee.
+Mit dem „Bran...</description>
+<pubDate>Tue, 02 Apr 2024 00:00:00 +0200</pubDate>
+</item>
+<item>
+<title>Newsticker</title>
+<link>https://www.presse-monitor.de/pmgk2/article_preview.html?id=2400957155&listName=storedesearch</link>
+<author>op-marburg.de (Oberhessische Presse)</author>
+<description>Guten Abend!
+Inhalte
+Service
+Unsere Empfehlung
+NewstickerUKGMPodcastsNewsletter
+Region
+Marburg
+Landkreis
+StadtallendorfKirchhainAmöneburgRauschenbergNeustadtWohratalCölbeLahntalWetterMünchhausenEbsdorfergrundWeimarFronhausenLohraGladenbachDautphetalBad EndbachBiedenkopfBreidenbachSteffenbergAngelbur...</description>
+<pubDate>Tue, 02 Apr 2024 00:00:00 +0200</pubDate>
+</item>
+<item>
+<title>Erneuter Verdi-Aufruf Warnstreik bei der Postbank – das kommt auf Kunden im Saarland zu</title>
+<link>https://www.presse-monitor.de/pmgk2/article_preview.html?id=2400944137&listName=storedesearch</link>
+<author>saarbruecker-zeitung.de</author>
+<description>Die Tarifverhandlungen für die Angestellten bei der Postbank kommen nicht vom Fleck. Das wirkt sich erneut auf die Kunden aus. Denn nach dem Start des neuerlich bundesweiten Warnstreiks am Dienstag, 2. April, erreicht der Ausstand am Tag darauf auch Filialen im Saarland. Das kündigt die Vereinte Die...</description>
+<pubDate>Tue, 02 Apr 2024 00:00:00 +0200</pubDate>
+</item>
+<item>
+<title>Welche Geldprofis wirklich gut sind</title>
+<link>https://www.presse-monitor.de/pmgk2/article_preview.html?id=2400963226&listName=storedesearch</link>
+<author>Süddeutsche Zeitung</author>
+<description>Vielleicht mag es ein ungewöhnlicher Ort für eine der besten Geldverwalterinnen sein, ihr Erfolgsrezept ausgerechnet unter dem Dach einer Kirche zu erläutern. Als Amy Browne vor einiger Zeit aber mitten im Londoner Finanzzentrum zu den geladenen Geldverwaltern sprach, tat sie es im Schutze des spitz...</description>
+<pubDate>Wed, 03 Apr 2024 00:00:00 +0200</pubDate>
+</item>
+<item>
+<title>Verdi erhöht Druck im Tarifkonflikt Postbank-Belegschaft streikt erneut – „spürbare Auswirkungen“ bis Donnerstag</title>
+<link>https://www.presse-monitor.de/pmgk2/article_preview.html?id=2400933447&listName=storedesearch</link>
+<author>tagesspiegel.de</author>
+<description>Die Gewerkschaft Verdi lässt im Tarifkonflikt bei der Postbank nicht locker. Nach zweitägigen bundesweiten Warnstreiks unter anderem in den Postbank-Filialen sind seit Dienstag die Beschäftigten in der Abwicklung von Bankgeschäften (Backoffice) zu Arbeitsniederlegungen aufgerufen, wie Verdi mitteilt...</description>
+<pubDate>Tue, 02 Apr 2024 00:00:00 +0200</pubDate>
+</item>
+<item>
+<title>Deutsche Bank-Aktie: Ohne Veränderung</title>
+<link>https://www.presse-monitor.de/pmgk2/article_preview.html?id=2400940523&listName=storedesearch</link>
+<author>Welt.de</author>
+<description>Anderthalb Stunden vor Handelsschluss in Frankfurt notierte der Wert des Frankfurter Kreditinstituts mit 14,53 Euro, der Schlusskurs des letzten Handelstages lag hingegen bei 14,58 Euro. Für die Deutschen Bank geht damit nach einigen schlechten Tagen nichts voran, und es wird sich noch zeigen, ob es...</description>
+<pubDate>Tue, 02 Apr 2024 00:00:00 +0200</pubDate>
+</item>
+<item>
+<title>Deutsche Telekom-Aktie: Ohne Veränderung</title>
+<link>https://www.presse-monitor.de/pmgk2/article_preview.html?id=2400940525&listName=storedesearch</link>
+<author>Welt.de</author>
+<description>Anderthalb Stunden vor Handelsschluss in Frankfurt notierte der Wert des Bonner Telekommunikationsunternehmens mit 22,39 Euro, der Schlusskurs des letzten Handelstages lag hingegen bei 22,50 Euro. Für die Deutschen Bank geht damit nach einigen schlechten Tagen nichts voran, und es wird sich noch zei...</description>
+<pubDate>Tue, 02 Apr 2024 00:00:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
