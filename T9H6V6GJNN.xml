@@ -3,5 +3,13 @@
 <title>PMG</title>
 <link>http://beispielwebsite.com</link>
 <description>3. Liquid Products</description>
+<item>
+<title>US-AKTIENMARKT</title>
+<link>https://www.presse-monitor.de/pmgk2/article_preview.html?id=2448011570&listName=storedesearch</link>
+<author>Börsen-Zeitung</author>
+<description>Die DWS-Fondsmanager Klaus Kaldemorgen und Christoph Schmidt warnen vor zu hohen Erwartungen am US-Aktienmarkt. In Europa fänden sich sehr gute Geschäftsmodelle zu attraktiven Bewertungen.
+► Im Interview Seite 13...</description>
+<pubDate>Wed, 04 Dec 2024 00:00:00 +0100</pubDate>
+</item>
 </channel>
 </rss>
