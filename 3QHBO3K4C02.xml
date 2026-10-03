@@ -4,25 +4,11 @@
 <link>http://beispielwebsite.com</link>
 <description>8. Industry</description>
 <item>
-<title>Google fordert Nvidia mit eigenen Chips heraus</title>
-<link>https://www.presse-monitor.de/search/read/7000019518?id=5630570269546310741</link>
-<author>Handelsblatt.com</author>
-<description>Die TPUs von Google sind Spezialchips für KI-Berechnungen: Sie beschleunigen die riesigen Matrix- und Vektoroperationen, die nötig sind, um die Modelle zu trainieren und auszuführen. Sie erledigen ausgewählte Aufgaben schneller und energieeffizienter als GPUs von Nvidia und dessen Mitbewerber AMD. Dies ist ein entscheidender Vorteil, weil der Betrieb moderner Rechenzentren mehrere Milliarden Euro kostet.</description>
-<pubDate>Fri, 02 Oct 2026 00:00:00 +0200</pubDate>
-</item>
-<item>
-<title>Apollo to Back $15 Billion Japan AI Infrastructure Project</title>
-<link>https://www.presse-monitor.de/search/read/7000019518?id=15047689273202471481</link>
-<author>Bloomberg News (English)</author>
-<description>The project, aimed at strengthening Japan’s domestic AI capacity, is expected to involve more than $15 billion in capital deployed across land, power infrastructure, construction and computing. Operations are slated to start around 2028, and it will be powered by as much as 400 megawatts of electricity with help from Jera’s nearby thermal power station.</description>
-<pubDate>Fri, 02 Oct 2026 00:00:00 +0200</pubDate>
-</item>
-<item>
-<title>SoftBank Stock Investors See Past Credit Risks to AI Returns</title>
-<link>https://www.presse-monitor.de/search/read/7000019518?id=4341608361672653197</link>
-<author>Bloomberg News (English)</author>
-<description>SoftBank Group Corp.’s equity investors are increasingly focused on the potential returns from its AI bets, helping the stock rebound even as the Japanese company faces higher borrowing costs. SoftBank shares posted their first monthly gain in four months in September, after OpenAI’s new GPT-6 Astra model rekindled optimism around Masayoshi Son’s $65 billion commitment to the ChatGPT creator.</description>
-<pubDate>Fri, 02 Oct 2026 00:00:00 +0200</pubDate>
+<title>Oracle zieht die Notbremse bei Megaprojekt</title>
+<link>https://www.presse-monitor.de/search/read/7000019518?id=7412268682036321803</link>
+<author>Tages-Anzeiger</author>
+<description>Rund 18 Milliarden Dollar will der Softwarekonzern Oracle im Doña Ana County im Süden des US-Bundesstaats New Mexico verbauen. Auf einer Fläche von rund 1400 Hektaren plant das Unternehmen unter dem Codenamen Project Jupiter ein Rechenzentrum, in dem die Supercomputer für die Kooperation mit dem Chat-GPT-Entwickler Open AI laufen sollen.</description>
+<pubDate>Sat, 03 Oct 2026 00:00:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
